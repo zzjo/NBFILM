@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/platform-Web%2FMobile%2FTelegram-ff69b4" alt="Platform">
-  <img src="https://img.shields.io/badge/Blockchain-BSC-green" alt="Blockchain">
+  <img src="https://img.shields.io/badge/Blockchain-BNB%20Chain-green" alt="Blockchain">
+  <img src="https://img.shields.io/badge/BNB Chain-BNB%20Smart%20Chain-yellow" alt="BNB Chain">
 </p>
 
 ---
@@ -47,7 +48,7 @@
 - 解锁付费影片
 - 兑换会员权益
 - 购买专属周边
-- 提现至 BSC 钱包
+- 提现至 BNB Chain 钱包
 
 ### 👑 会员体系
 
@@ -59,7 +60,7 @@
 ### 🔐 安全功能
 
 - **支付密码**：6 位数字密码，保护你的资产
-- **钱包绑定**：支持绑定 MetaMask、Trust Wallet 等 BSC 钱包
+- **钱包绑定**：支持绑定 MetaMask、Trust Wallet 等 BNB Chain 钱包
 - **提现审核**：多重验证机制保障资金安全
 
 ---
@@ -92,7 +93,7 @@
 ┌─────────────────────────────────────────────────────────┐
 │                      区块链层                            │
 │  ┌──────────┐  ┌──────────┐  ┌──────────┐             │
-│  │   BSC    │  │  NBT     │  │ 合约交互 │             │
+│  │   BNB Chain    │  │  NBT     │  │ 合约交互 │             │
 │  │ Network  │  │ Token    │  │ (提现)   │             │
 │  └──────────┘  └──────────┘  └──────────┘             │
 └─────────────────────────────────────────────────────────┘
@@ -116,8 +117,8 @@
 - Cron (定时任务)
 
 **区块链**
-- BSC (币安智能链)
-- NBT Token (ERC-20)
+- BNB Chain (BNB Smart Chain)
+- NBT Token (BEP-20)
 - Web3.js / Ethers.js
 
 ---
@@ -159,7 +160,7 @@ go run main.go
 3. 邀请好友加入，双方获得奖励
 
 ### Q: 代币可以提现吗？
-**A**: 可以。绑定外部 BSC 钱包并设置支付密码后，可在钱包页面申请提现。
+**A**: 可以。绑定外部 BNB Chain 钱包并设置支付密码后，可在钱包页面申请提现。
 
 ### Q: 观影奖励多久到账？
 **A**: 系统会实时计算观影时长，代币奖励将在当日结算后自动发放到您的钱包。
@@ -172,7 +173,7 @@ go run main.go
 ## 注意事项
 
 ⚠️ **重要提示**：
-- 请确保在 BSC 网络上操作，代币仅在 BSC 网络有效
+- 请确保在 BNB Chain 网络上操作，代币仅在 BNB Chain 网络有效
 - 提现前请仔细核对钱包地址，链上交易不可逆
 - 观看时长奖励设有上限，请关注平台公告了解规则调整
 - AI 系统 7×24 小时监控刷分行为，一经发现奖励清零、账号封禁
