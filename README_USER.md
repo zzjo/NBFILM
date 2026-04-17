@@ -126,7 +126,7 @@
 
 ### Web 端访问
 
-直接访问演示站点：[https://m.mubai.link](https://m.mubai.link)
+直接访问演示站点：[https://nbfilm.tv](https://nbfilm.tv)
 
 ### Telegram Mini App
 
@@ -179,11 +179,7 @@ go run main.go
 
 ---
 
-**开源协议**：MIT License
-
-**联系方式**：
-- 问题反馈：[GitHub Issues](https://github.com/ProudMuBai/nbfilm/issues)
-- 产品咨询：[官方频道](#)
+**开源地址**：[GitHub - zzjo/NBFILM](https://github.com/zzjo/NBFILM)
 
 ---
 
